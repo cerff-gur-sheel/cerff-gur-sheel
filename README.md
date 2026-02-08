@@ -41,10 +41,12 @@ But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, e
 **Note:** If you can't find my contact info, maybe you should reconsider being on a platform made for developers.
 
 ## Stats
+## Stats
 
-![Infos](https://github-readme-stats-acube.vercel.app/api?username=cerff-gur-sheel&theme=transparent&hide_border=true&line_height=22&show_icons=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cerff-gur-sheel&theme=transparent&hide_border=true)
-![Languages](https://github-readme-stats-acube.vercel.app/api/top-langs/?username=cerff-gur-sheel&theme=transparent&hide_border=true&layout=donut&card_width=300&langs_count=6&include_all_commits=true)
-
-
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-acube.vercel.app/api?username=cerff-gur-sheel&theme=transparent&hide_border=true&line_height=22&show_icons=true&count_private=true&include_all_commits=true" alt="Infos" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=cerff-gur-sheel&theme=transparent&hide_border=true" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats-acube.vercel.app/api/top-langs/?username=cerff-gur-sheel&theme=transparent&hide_border=true&layout=donut&card_width=300&langs_count=6&include_all_commits=true" alt="Languages" /></td>
+  </tr>
+</table>
