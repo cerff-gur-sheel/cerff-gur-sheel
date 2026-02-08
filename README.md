@@ -41,7 +41,6 @@ But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, e
 **Note:** If you can't find my contact info, maybe you should reconsider being on a platform made for developers.
 
 ## Stats
-## Stats
 
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
