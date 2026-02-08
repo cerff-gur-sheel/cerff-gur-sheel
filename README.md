@@ -26,7 +26,7 @@ I care about **how** things work, not just that they work. I love algorithms, pa
 
 I don't have a "tech stack". I have **understanding**. Give me a problem, I'll learn what's needed and solve it. That's what being a computer scientist means.
 
-But if you really need labels: Python, JavaScript/TypeScript, C, Linux, networking, security, automation, cloud infrastructure, hardware, and whatever else the problem requires.
+But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, even my grandpa knows Python), Linux, networking, security, automation, cloud infrastructure, hardware, and whatever else the problem requires.
 
 ---
 
