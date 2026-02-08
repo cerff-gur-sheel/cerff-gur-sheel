@@ -28,6 +28,25 @@ I don't have a "tech stack". I have **understanding**. Give me a problem, I'll l
 
 But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, even my grandpa knows Python), Linux, networking, security, automation, cloud infrastructure, hardware, and whatever else the problem requires.
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+
 ---
 
 **Note:** If you can't find my contact info, maybe you should reconsider being on a platform made for developers.
+
+## Stats
+
+<div align="center">
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cerff-gur-sheel&theme=transparent&hide_border=true)
+
+
+</div>
