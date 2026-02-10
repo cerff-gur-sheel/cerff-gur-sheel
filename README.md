@@ -42,20 +42,13 @@ But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, e
 
 ## Stats
 
-<div align="center">
-  <center>
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none;"><img src="https://github-readme-stats-acube.vercel.app/api?username=cerff-gur-sheel&theme=transparent&hide_border=true&line_height=22&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /></td>    
-      <td style="border: none;"><img src="https://github-readme-stats-acube.vercel.app/api/top-langs/?username=cerff-gur-sheel&theme=transparent&hide_border=true&layout=donut&card_width=300&langs_count=6&include_all_commits=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
-</center>
-
-</div>
 
 <div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats-acube.vercel.app/api?username=cerff-gur-sheel&theme=transparent&hide_border=true&line_height=22&show_icons=true&count_private=true&include_all_commits=true)
+  ![Top Languages](https://github-readme-stats-acube.vercel.app/api/top-langs/?username=cerff-gur-sheel&theme=transparent&hide_border=true&layout=donut&card_width=300&langs_count=6&include_all_commits=true)
 
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerff-gur-sheel&theme=transparent&hide_border=true" alt="GitHub Streak" />
-
 </div>
+
