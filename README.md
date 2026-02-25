@@ -38,7 +38,7 @@ But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, e
 
 ---
 
-**Note:** If you can't find my contact info, maybe you should reconsider being on a platform made for developers.
+**Note:** If you can't find my contact info, maybe you should reconsider being on a platform made for developers. You can also find me on matrix: @cerff_gur_sheel:matrix.org
 
 ## Stats
 
