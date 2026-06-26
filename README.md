@@ -1,22 +1,24 @@
+> ### Important Notice!
+>  I am currently moving away from GitHub and migrating my active projects to my self-hosted Git server. You can find all my latest repositories, updates, and codebases here:
+>  **[git.cerffgursheel.party/cerff_gur_sheel](https://git.cerffgursheel.party/cerff_gur_sheel)**
+
+
 # Cerff
 
-> Computer Scientist. Not "Software Engineer". Not "Full-Stack Developer". Computer Scientist.
+> Computer Scientist | Focused on Fundamentals and Problem Solving
 
 ## Who am I?
 
-I'm someone who actually understands computing - from Von Neumann architecture and graph theory to soldering circuits and deploying my own cloud infrastructure. I don't specialize because specialization is for insects. I understand the fundamentals, so I adapt.
+Instead of limiting myself to market labels or a single ecosystem, I position myself as a **Computer Scientist**. My passion lies in understanding how technology actually works — from Von Neumann architecture and graph theory to the practical implementation of infrastructure and basic electronics. 
 
-**Things I've done:**
-- RPA automation
-- Game development  
-- Networking and cybersecurity
-- Hardware repair (fun fact: I could swap phone screens in 12-15 minutes while the "professionals" took 20+)
-- DevOps and infrastructure
-- Built and maintain my own homelab
-- Self-hosted cloud services
-- Currently building my own music streaming app connected to my own music server
+I believe that understanding the fundamentals grants us the necessary flexibility to quickly learn and master any tool. I follow the **KISS (Keep It Simple, Stupid)** principle: code and architecture should be so clean and efficient that they explain themselves.
 
-I run **Arch Linux** (btw) with KDE Plasma and believe in KISS and Clean Code principles. If your code needs 50 comments to be understood, you wrote it wrong.
+## What I Do and Develop
+
+* **Agnostic Approach:** I don't bind myself to a fixed "tech stack." When faced with a complex problem, I analyze the root cause, learn the required technology, and implement the best solution.
+* **Infrastructure & Homelab:** I am a self-hosting enthusiast. I manage and maintain my own home laboratory (Homelab), handling local cloud services and application deployment (currently building a streaming app integrated with my own music server).
+* **Practical Versatility:** My experience spans from robotic process automation (RPA), game development, and networking/cybersecurity to hardware maintenance and electronics.
+* **Work Environment:** Daily user of Arch Linux (Hyprland), prioritizing automation, minimalism, and total control over the development environment.
 
 ## Philosophy
 
@@ -26,7 +28,7 @@ I care about **how** things work, not just that they work. I love algorithms, pa
 
 I don't have a "tech stack". I have **understanding**. Give me a problem, I'll learn what's needed and solve it. That's what being a computer scientist means.
 
-But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, even my grandpa knows Python), Linux, networking, security, automation, cloud infrastructure, hardware, and whatever else the problem requires.
+But if you really need labels: C#, JavaScript/TypeScript, C, Python, Linux, networking, security, automation, cloud infrastructure, hardware, and whatever else the problem requires.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,12 +38,16 @@ But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, e
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 
+## Contact
+Feel free to explore my repositories and hands-on projects. If you want to chat about technology, infrastructure, or algorithms, feel free to reach out:
+
+* **Matrix:** @cerff_gur_sheel:matrix.org
+* **E-mail:** [your-email here]
+* **LinkedIn:** [your-link here]
+
 ---
 
-**Note:** If you can't find my contact info, maybe you should reconsider being on a platform made for developers. You can also find me on matrix: @cerff_gur_sheel:matrix.org
-
 ## Stats
-
 
 <div align="center">
   
@@ -50,4 +56,3 @@ But if you really need labels: C#, JavaScript/TypeScript, C, Python (big deal, e
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerff-gur-sheel&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
-
