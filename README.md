@@ -1,4 +1,4 @@
-> ### 📢 Important Notice!
+> ### 🟥 Important Notice!
 > I am currently moving away from GitHub and migrating my active projects to my self-hosted Git server. You can find all my latest repositories, updates, and codebases here:
 > **[git.cerffgursheel.party/cerff_gur_sheel](https://git.cerffgursheel.party/cerff_gur_sheel)**
 
@@ -19,7 +19,7 @@ I believe that understanding the fundamentals grants us the necessary flexibilit
 * **Linux & Systems:** Strong familiarity with Linux environments, focused on what actually matters: shell scripting, user/permission management, system automation, and virtualization utilizing Proxmox VE.
 * **Practical Versatility:** Experienced with Robotic Process Automation (RPA), network configuration, systems troubleshooting, and hardware diagnosis/maintenance.
 
-## 🚀 Featured Projects (Pinned Repositories)
+## Featured Projects (Pinned Repositories)
 
 Here are the key projects that represent my practical experience, problem-solving skills, and a bit of my journey:
 
@@ -51,9 +51,19 @@ C#, JavaScript/TypeScript, C, Python, Linux (Debian/RHEL/Arch), Proxmox VE, Netw
 ---
 
 ## Contact
-If you want to talk about infrastructure, automation, or algorithm optimization, feel free to reach out:
+Feel free to explore my hands-on projects. If you want to talk about infrastructure, automation, or algorithm optimization, feel free to reach out:
 
-em breve
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/@cerff_gur_sheel:matrix.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayslan-fontes)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5579999297520)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white)](https://t.me/cerffgursheel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayslan.fontes@protonmail.com)
+
+* **Matrix:** @cerff_gur_sheel:matrix.org
+* **LinkedIn:** [linkedin.com/in/ayslan-fontes](https://linkedin.com/in/ayslan-fontes)
+* **WhatsApp:** [+55 (79) 99929-7520](https://wa.me/5579999297520)
+* **Telegram:** [@cerffgursheel](https://t.me/cerffgursheel)
+* **E-mail:** ayslan.fontes@protonmail.com
 ---
 
 ## Stats
