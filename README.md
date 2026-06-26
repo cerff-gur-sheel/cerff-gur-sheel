@@ -38,13 +38,6 @@ But if you really need labels: C#, JavaScript/TypeScript, C, Python, Linux, netw
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 
-## Contact
-Feel free to explore my repositories and hands-on projects. If you want to chat about technology, infrastructure, or algorithms, feel free to reach out:
-
-* **Matrix:** @cerff_gur_sheel:matrix.org
-* **E-mail:** [your-email here]
-* **LinkedIn:** [your-link here]
-
 ---
 
 ## Stats
